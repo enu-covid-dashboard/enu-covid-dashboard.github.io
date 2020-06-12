@@ -52,4 +52,4 @@ SK95AF
 
 0303 123 1113
 
-Find more details and contact options at [www.ico.org.uk](www.ico.org.uk)
+Find more details and contact options at [www.ico.org.uk](https://www.ico.org.uk)
