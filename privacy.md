@@ -1,6 +1,6 @@
 # Privacy Notice
 
-This project is being carried out by Edinburgh Napier University. Further information on the institution can be found here: https://www.napier.ac.uk/. Edinburgh Napier University is the Data Controller for your information.
+This project is being carried out by Edinburgh Napier University. Further information on the institution can be found here: [napier.ac.uk](https://www.napier.ac.uk/). Edinburgh Napier University is the Data Controller for your information.
 
 
 This privacy notice explains how we use your personal information and your rights regarding that information.
@@ -52,4 +52,4 @@ SK95AF
 
 0303 123 1113
 
-Find more details and contact options at www.ico.org.uk
+Find more details and contact options at [www.ico.org.uk](www.ico.org.uk)
