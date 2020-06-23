@@ -14,4 +14,4 @@ We will be drawing from a number of sources of public social media data for this
 * Instagram
 * Facebook
 
-We will be collaborating with Facebook's Crowdtangle platform to get further insights into how people in the UK are expressing their feelings.
+We will be collaborating with Facebook's [Crowdtangle](https://www.crowdtangle.com/) platform to get further insights into how people in the UK are expressing their feelings.
