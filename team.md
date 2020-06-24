@@ -9,7 +9,7 @@ Project is a collaboration between [Edinburgh Napier University](https://www.nap
 | **Aziz Sheikh** | University of Edinburgh (UoE): Co-PI: Clinical Lead |
 
 ### Edinburgh Napier University Team Members
-|-------|--------|
+
 | **Jawad Ahmad** | Co-I: Day to day technical management and reporting, Paper/Proposal writing, Escalation |
 | **Thomas Methven** | Co-I:  Advise/support developers: front end development, Dashboard design, testing and validation |
 
