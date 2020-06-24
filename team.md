@@ -4,14 +4,13 @@ Project is a collaboration between [Edinburgh Napier University](https://www.nap
 
 ### Project Management Team
 
+|-------|--------|
 | **Amir Hussain** | Edinburgh Napier University (ENU): PI-Technical Lead |
-
 | **Aziz Sheikh** | University of Edinburgh (UoE): Co-PI: Clinical Lead |
 
 ### Edinburgh Napier University Team Members
-
+|-------|--------|
 | **Jawad Ahmad** | Co-I: Day to day technical management and reporting, Paper/Proposal writing, Escalation |
-
 | **Thomas Methven** | Co-I:  Advise/support developers: front end development, Dashboard design, testing and validation |
 
 **Baraq Ghaleb** - Co-I:  Advise/support developers: web application security
