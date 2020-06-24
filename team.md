@@ -2,7 +2,7 @@
 
 Project is a collaboration between [Edinburgh Napier University](https://www.napier.ac.uk/) and [University of Edinburgh](https://www.ed.ac.uk/).
 
-## Project Management Team
+### Project Management Team
 
 Amir Hussain – Edinburgh Napier University (ENU): PI-Technical Lead
 
