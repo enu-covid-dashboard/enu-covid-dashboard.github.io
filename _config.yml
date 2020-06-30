@@ -5,3 +5,4 @@ google_analytics:
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-sitemap
+exclude: ['./README.md']
