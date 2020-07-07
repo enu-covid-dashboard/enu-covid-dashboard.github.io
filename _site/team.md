@@ -24,7 +24,7 @@ Project is a collaboration between [Edinburgh Napier University](https://www.nap
 
 ### University of Edinburgh Team Members
 
-| **Azhar Ali** | Co-I |
-| **Syed Ahmar Shah** | Co-I |
-| **Zakariya Sheikh** | Co-I |
-| **Zain Hussain** | Lead RF |
+| **Azhar Ali** | Clinical Advisor |
+| **Syed Ahmar Shah** | Co-Lead RF |
+| **Zakariya Sheikh** | Honorary RA |
+| **Zain Hussain** | Honorary Clinical RF |
