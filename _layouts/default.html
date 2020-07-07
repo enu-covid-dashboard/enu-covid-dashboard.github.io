@@ -21,7 +21,11 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <img src="/images/logo.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      <picture>
+            <source media="(max-width: 799px)" srcset="/images/logo.png">
+            <source media="(min-width: 800px)" srcset="/images/logo.png">
+            <img src="/images/logo.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      </picture>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if page.title == 'Team Members' %}
         <a href="/" class="btn">Home</a> 

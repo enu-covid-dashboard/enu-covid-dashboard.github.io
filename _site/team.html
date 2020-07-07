@@ -26,7 +26,11 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <img src="/images/logo.png" alt="Team Members" class="project-name" />
+      <picture>
+            <source media="(max-width: 799px)" srcset="/images/logo.png">
+            <source media="(min-width: 800px)" srcset="/images/logo.png">
+            <img src="/images/logo.png" alt="Team Members" class="project-name" />
+      </picture>
       <h2 class="project-tagline">Making better public health decisions</h2>
       
         <a href="/" class="btn">Home</a> 
