@@ -1,3 +1,5 @@
+# Artificial Intelligence (AI)-powered dashboard for COVID-19 related public sentiment and opinion mining in social media platforms
+
 Our project is a Scottish government-funded initiative to better understand how public health policy in response to COVID-19 has affected people's daily lives. We're interested in using social media to follow how people are feeling in real time, and help policymakers make decisions about how to help people during this challenging time.
 
 
@@ -15,3 +17,25 @@ We will be drawing from a number of sources of public social media data for this
 * Facebook
 
 We will be collaborating with Facebook's [Crowdtangle](https://www.crowdtangle.com/) platform to get further insights into how people in the UK are expressing their feelings.
+
+## Our Partners
+
+<table>
+<tr>
+    <th>
+        <picture>
+            <source media="(max-width: 799px)" srcset="/images/uniofedinburgh-320w.png"> 
+            <source media="(min-width: 800px)" srcset="/images/uniofedinburgh.png">
+            <img src="/images/uniofedinburgh.png" alt="University of Edinburgh" class="partner1" />
+        </picture>
+    </th>
+    <th></th>
+    <th>
+        <picture>
+            <source media="(max-width: 799px)" srcset="/images/crowdtangle-320w.png"> 
+            <source media="(min-width: 800px)" srcset="/images/crowdtangle.png">
+            <img src="/images/crowdtangle.png" alt="CrowdTangle" class="partner2" />
+        </picture>
+    </th>
+</tr>
+</table>
