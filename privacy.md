@@ -1,4 +1,4 @@
-# Privacy Notice
+# Privacy Policy
 
 This project is being carried out by Edinburgh Napier University. Further information on the institution can be found here: [napier.ac.uk](https://www.napier.ac.uk/). Edinburgh Napier University is the Data Controller for your information.
 
