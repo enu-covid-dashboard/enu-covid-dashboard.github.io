@@ -38,7 +38,7 @@ Under data protection law, you have rights including:
 * Your right to data portability - You have the right to ask that we transfer the information you gave us to another organisation, or to you, in certain circumstances.
 
 
-You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you. Please contact us at  if you would like to make a request.
+You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you. Please contact us at [covidtracker@napier.ac.uk](mailto:covidtracker@napier.ac.uk) if you would like to make a request.
 
 ## Who can I complain to?
 Any complaints can be directed to the Information Commissioner’s Office:
