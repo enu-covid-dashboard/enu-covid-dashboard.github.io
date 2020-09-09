@@ -1,4 +1,6 @@
-# Artificial Intelligence (AI)-powered dashboard for COVID-19 related public sentiment and opinion mining in social media platforms
+<!-- # Artificial Intelligence (AI)-powered dashboard for COVID-19 related public sentiment and opinion mining in social media platforms -->
+
+# COVID-19 AI-powered dashboard for sentiment and opinion mining in social media platforms
 
 Our project is a Scottish government-funded initiative to better understand how public health policy in response to COVID-19 has affected people's daily lives. We're interested in using social media to follow how people are feeling in real time, and help policymakers make decisions about how to help people during this challenging time.
 
