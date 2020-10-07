@@ -12,13 +12,12 @@ We believe this will be a valuable resource to help us make better decisions aro
 
 ## Our Sources
 
-We will be drawing from a number of sources of public social media data for this project, among which are:
+We are drawing data from a number of sources of public social media data for this project, among which are:
 
 * Twitter
-* Instagram
 * Facebook
 
-We will be collaborating with Facebook's [Crowdtangle](https://www.crowdtangle.com/) platform to get further insights into how people in the UK are expressing their feelings.
+We are collaborating with Facebook's [Crowdtangle](https://www.crowdtangle.com/) platform to get further insights into how people in the UK are expressing their feelings.
 
 ## Our Partners
 
