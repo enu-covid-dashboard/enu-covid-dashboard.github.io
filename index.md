@@ -31,7 +31,6 @@ We will be collaborating with Facebook's [Crowdtangle](https://www.crowdtangle.c
             <img src="/images/uniofedinburgh.png" alt="University of Edinburgh" class="partner1" />
         </picture>
     </th>
-    <th></th>
     <th>
         <picture>
             <source media="(max-width: 799px)" srcset="/images/crowdtangle-320w.png"> 
