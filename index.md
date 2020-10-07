@@ -39,5 +39,12 @@ We will be collaborating with Facebook's [Crowdtangle](https://www.crowdtangle.c
             <img src="/images/crowdtangle.png" alt="CrowdTangle" class="partner2" />
         </picture>
     </th>
+    <th>
+        <picture>
+            <source media="(max-width: 799px)" srcset="/images/usher_institute_logo-320w.png"> 
+            <source media="(min-width: 800px)" srcset="/images/usher_institute_logo.png">
+            <img src="/images/usher_institute_logo.png" alt="Usher Institute" class="partner3" />
+        </picture>
+    </th>
 </tr>
 </table>
