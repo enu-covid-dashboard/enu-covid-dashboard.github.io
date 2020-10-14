@@ -21,9 +21,17 @@ We are collaborating with Facebook's [Crowdtangle](https://www.crowdtangle.com/)
 
 ## Our Partners
 
+
 <table>
-<tr>
-    <th>
+<!-- <tr> -->
+    <!-- <th> -->
+        <picture>
+            <source media="(max-width: 799px)" srcset="/images/crowdtangle-320w.png"> 
+            <source media="(min-width: 800px)" srcset="/images/crowdtangle.png">
+            <img src="/images/crowdtangle.png" alt="CrowdTangle" class="partner2" />
+        </picture>
+    <!-- </th> -->
+    <!-- <th>
         <picture>
             <source media="(max-width: 799px)" srcset="/images/uniofedinburgh-320w.png"> 
             <source media="(min-width: 800px)" srcset="/images/uniofedinburgh.png">
@@ -32,17 +40,10 @@ We are collaborating with Facebook's [Crowdtangle](https://www.crowdtangle.com/)
     </th>
     <th>
         <picture>
-            <source media="(max-width: 799px)" srcset="/images/crowdtangle-320w.png"> 
-            <source media="(min-width: 800px)" srcset="/images/crowdtangle.png">
-            <img src="/images/crowdtangle.png" alt="CrowdTangle" class="partner2" />
-        </picture>
-    </th>
-    <th>
-        <picture>
             <source media="(max-width: 799px)" srcset="/images/usher_institute_logo-320w.png"> 
             <source media="(min-width: 800px)" srcset="/images/usher_institute_logo.png">
             <img src="/images/usher_institute_logo.png" alt="Usher Institute" class="partner3" />
         </picture>
-    </th>
-</tr>
+    </th> -->
+<!-- </tr> -->
 </table>
