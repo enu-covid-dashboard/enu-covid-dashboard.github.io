@@ -4,13 +4,13 @@
 <loc>http://localhost:4000/contact.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/dashboardprototype.html</loc>
-</url>
-<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/privacy.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/prototype.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/team.html</loc>
