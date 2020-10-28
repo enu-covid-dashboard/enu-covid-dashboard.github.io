@@ -2,7 +2,7 @@
 
 This project is being carried out by Edinburgh Napier University. Further information on the institution can be found here: [napier.ac.uk](https://www.napier.ac.uk/).
 
-| **Telephone:** | +44 0845 260 6040 |
+| **Telephone:** | +44 845 260 6040 |
 | **Address:** | 10 Colinton Rd, Edinburgh EH10 5DT |
 
 ## Please leave your message!
