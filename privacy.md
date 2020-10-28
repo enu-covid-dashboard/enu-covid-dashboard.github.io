@@ -41,7 +41,7 @@ You are not required to pay any charge for exercising your rights. If you make a
 ## Who can I complain to?
 Any complaints can be directed to the Information Commissioner’s Office:
 
-Information Commissioners Office,
+Information Commissioner's Office,
 Wycliffe House,
 Water Lane,
 Wilmslow,
