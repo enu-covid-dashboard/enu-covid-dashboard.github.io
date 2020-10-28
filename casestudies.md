@@ -26,6 +26,7 @@ The model has been optimised using a COVID-19 specific lexicon and the analysis 
 This case study aims to analyse public sentiments towards COVID-19 vaccination in the UK and the US, using data from two popular social media platforms, Twitter and Facebook.
 Publicly available data from both platforms were extracted for the period of 1 March to 15 October 2020 using relevant keywords identified by domain experts. Posts were filtered geographically for the UK and the US, resulting in approximately 30,000 and 80,000 tweets, and 20,000 and 90,000 Facebook posts respectively. The sentiments of the tweets and posts were analysed over time using a hybrid ensemble deep learning-based approach, and a random ~10% sample manually annotated to validate the AI model. 
 Geographical and temporal sentiment graphs, sentiment word-clouds and statistical analysis measures were used to identify statistically significant trends and potential determinants of positive and negative public sentiment and opinion. 
+
 The results indicate that the public opinion on social media, both in the UK and the US, was mainly optimistic about vaccine development and its future prospects over the studied time period. However, common concerns around vaccine-related issues, such as safety and availability, were also evident.
 
 
