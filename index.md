@@ -6,7 +6,7 @@ This Scottish government-funded project is an initiative to understand the impac
 
 Our web-based dashboard uses AI to identify the public coping with the health and social policy impacts related to the pandemic, and let policymakers, public health experts, and clinical practitioners get continuous insights into the public’s response. We are interested in providing the most up-to-the-minute reflection of evolving COVID-19 trends on social media platforms, such as public sentiment and attitudes towards, e.g. social distancing, travel restrictions, lockdown and other public health policies. 
 
-The dashboard provides a valuable resource to support better decision making and increase the reaction speed in the current public health crises.
+The dashboard provides a valuable resource to support better decision making and shorten the reaction time in the current public health crises.
 
 
 ## Our Sources
