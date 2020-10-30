@@ -23,27 +23,27 @@ We are using the [Crowdtangle](https://www.crowdtangle.com/) platform to collect
 
 
 <table>
-<!-- <tr> -->
-    <!-- <th> -->
+<tr> 
+    <th>
         <picture>
             <source media="(max-width: 799px)" srcset="/images/crowdtangle-320w.png"> 
             <source media="(min-width: 800px)" srcset="/images/crowdtangle.png">
-            <img src="/images/crowdtangle.png" alt="CrowdTangle" class="partner2" />
-        </picture>
-    <!-- </th> -->
-    <!-- <th>
-        <picture>
-            <source media="(max-width: 799px)" srcset="/images/uniofedinburgh-320w.png"> 
-            <source media="(min-width: 800px)" srcset="/images/uniofedinburgh.png">
-            <img src="/images/uniofedinburgh.png" alt="University of Edinburgh" class="partner1" />
+            <img src="/images/crowdtangle.png" alt="CrowdTangle" class="partner1" />
         </picture>
     </th>
     <th>
+        <picture>
+            <source media="(max-width: 799px)" srcset="/images/cso-logo-320w.png"> 
+            <source media="(min-width: 800px)" srcset="/images/cso-logo.png">
+            <img src="/images/cso-logo.png" alt="Chief Scientist Officer" class="partner2" />
+        </picture>
+    </th>
+    <!-- <th>
         <picture>
             <source media="(max-width: 799px)" srcset="/images/usher_institute_logo-320w.png"> 
             <source media="(min-width: 800px)" srcset="/images/usher_institute_logo.png">
             <img src="/images/usher_institute_logo.png" alt="Usher Institute" class="partner3" />
         </picture>
     </th> -->
-<!-- </tr> -->
+</tr>
 </table>
