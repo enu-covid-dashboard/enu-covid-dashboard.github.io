@@ -5,7 +5,7 @@ Project is a collaboration between [Edinburgh Napier University](https://www.nap
 ### Project Management Team
 
 |-------|--------|--------|
-| **Amir Hussain** | Edinburgh Napier University | PI: Technical Lead |
+| **Amir Hussain** | Edinburgh Napier University | PI: AI Lead |
 | **Aziz Sheikh** | University of Edinburgh | Co-PI: Clinical Lead |
 
 ### Edinburgh Napier University Team Members
@@ -20,7 +20,7 @@ Project is a collaboration between [Edinburgh Napier University](https://www.nap
 | **Richard Plant** | RA |
 | **Heidi Koikkalainen** | RA |
 | **Pavlos Papadopoulos** | RA |
-| **Giuseppe Varone** | Honorary RA |
+| **Hasan Idrees** | Honorary RA |
 
 ### University of Edinburgh Team Members
 

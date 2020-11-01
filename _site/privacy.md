@@ -6,7 +6,7 @@ This privacy notice explains how we use your personal information and your right
 
 
 ## What information are we collecting?
-We are collecting the text, date and time, and location of public social media postings related to Covid-19 without linking it to personal accounts.
+We are collecting the text, date, time, and location of public social media postings related to Covid-19 without linking it to personal accounts.
 
 
 ## Why are we collecting your data?
@@ -22,7 +22,7 @@ We are not collecting personal information, such as account names, and are not s
 ## Who are we sharing your information with?
 We are collaborating with researchers from Edinburgh University – no one else will have access to any of the data we gather from social networks directly.
 
-We plan to share our research with other scientists to gain more knowledge, but, when we do we will make sure that the data would be anonymised and no information exists to link the data back to you. We will keep the data in our archives for five years following publication.
+We plan to share our research with other scientists to gain more knowledge, but when we do we will make sure that the data will be anonymised in line with social network policies, and doesn’t expose any private non-public data about you. We will keep the data in our archives for five years following publication.
 
 
 ## What are your rights?
