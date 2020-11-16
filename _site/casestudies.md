@@ -29,4 +29,6 @@ Geographical and temporal sentiment graphs, sentiment word-clouds and statistica
 
 The results indicate that the public opinion on social media, both in the UK and the US, was mainly optimistic about vaccine development and its future prospects over the studied time period. However, common concerns around vaccine-related issues, such as safety and availability, were also evident.
 
+## Publications
+Currently in progress, will be published soon.
 
