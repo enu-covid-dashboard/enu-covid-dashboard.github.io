@@ -30,5 +30,14 @@ Geographical and temporal sentiment graphs, sentiment word-clouds and statistica
 The results indicate that the public opinion on social media, both in the UK and the US, was mainly optimistic about vaccine development and its future prospects over the studied time period. However, common concerns around vaccine-related issues, such as safety and availability, were also evident.
 
 ## Publications
-Currently in progress, will be published soon.
+[1] Hussain A, Sheikh A (2021) Opportunities for AI-enabled social media analysis of public attitudes towards Covid-19 vaccines, NEJM Catalyst Innovations in Care Delivery, DOI:10.1056/CAT.20.0649 
+[2] Hussain A, Tahir A, Hussain Z, Sheikh Z, Gogate M, Dashtipour K, Ali A, Sheikh A, (2021), Artificial intelligence-enabled analysis of UK and US public attitudes on Facebook and Twitter towards COVID-19 vaccinations, Journal of Medical Internet Research, DOI: 10.2196/26627 
+[3] Cresswell K, Tahir A, Sheikh Z, Hussain Z, Hernández A D, Harrison E, Sheikh A, Hussain A, (2021), Artificial Intelligence-enabled analysis of social media data to understand public perceptions of COVID-19 contact tracing apps, Journal of Medical Internet Research, DOI: 10.2196/26618 
+
+
+Project Datasets:
+
+
+We have published our collected datasets, which contain over 13 million Twitter messages and 5.6 million Facebook posts along with annotated results of our AI-based categorisation process. The datasets are publicly available via the ENU repository: https://www.napier.ac.uk/research-and-innovation/research-search/outputs/covid-19-uk-social-media-dataset-for-public-health-research
+
 
