@@ -26,23 +26,23 @@ We are using the [Crowdtangle](https://www.crowdtangle.com/) platform to collect
 <tr> 
     <th>
         <picture>
-            <source media="(max-width: 799px)" srcset="/images/crowdtangle-320w.png"> 
-            <source media="(min-width: 800px)" srcset="/images/crowdtangle.png">
-            <img src="/images/crowdtangle.png" alt="CrowdTangle" class="partner1" />
+            <source media="(max-width: 799px)" srcset="images/crowdtangle-320w.png"> 
+            <source media="(min-width: 800px)" srcset="images/crowdtangle.png">
+            <img src="images/crowdtangle.png" alt="CrowdTangle" class="partner1" />
         </picture>
     </th>
     <th>
         <picture>
-            <source media="(max-width: 799px)" srcset="/images/cso-logo-320w.png"> 
-            <source media="(min-width: 800px)" srcset="/images/cso-logo.png">
-            <img src="/images/cso-logo.png" alt="Chief Scientist Officer" class="partner2" />
+            <source media="(max-width: 799px)" srcset="images/cso-logo-320w.png"> 
+            <source media="(min-width: 800px)" srcset="images/cso-logo.png">
+            <img src="images/cso-logo.png" alt="Chief Scientist Officer" class="partner2" />
         </picture>
     </th>
     <th>
         <picture>
-            <source media="(max-width: 799px)" srcset="/images/SG-logo-320w.png"> 
-            <source media="(min-width: 800px)" srcset="/images/SG-logo-640w.png">
-            <img src="/images/SG-logo-640w.png" alt="Scottish Government" class="partner3" />
+            <source media="(max-width: 799px)" srcset="images/SG-logo-320w.png"> 
+            <source media="(min-width: 800px)" srcset="images/SG-logo-640w.png">
+            <img src="images/SG-logo-640w.png" alt="Scottish Government" class="partner3" />
         </picture>
     </th>
 </tr>
